@@ -1,3 +1,3 @@
-# Micro-Micro
+# Bib. de Referencia
 
-Este repositório é destinado aos códigos e arquivos gerados para a disciplina de Microcontroladores e Microprocessadores, os quais foram escritos para rodar em um stm32, atravéz da placa de desenvolvimento núcleo G491RE, com base no kit didático da disciplina.
+Este repositório é destinado aos arquivos fornecidos pelo professor Marcos Rambo, os quais serão utilizados nos demais códigos da disciplina
