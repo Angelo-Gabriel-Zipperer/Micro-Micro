@@ -1,3 +1,3 @@
-# Micro-Micro
+# Projeto Final
 
-Este repositório é destinado aos códigos e arquivos gerados para a disciplina de Microcontroladores e Microprocessadores, os quais foram escritos para rodar em um stm32, atravéz da placa de desenvolvimento núcleo G491RE, com base no kit didático da disciplina.
+Este repositório é destinado ao projeto final da disciplina de Microcontroladores e Microprocessadores, o qual foi escrito para rodar em um stm32, atravéz da placa de desenvolvimento núcleo G491RE, com base no kit didático da disciplina.
